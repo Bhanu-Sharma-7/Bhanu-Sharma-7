@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1002365/1632672277_Steam-1200x207.png" alt="Banner" width="100%" />
+</div> 
 
-<!--
-**Bhanu-Sharma-7/Bhanu-Sharma-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  <h1>Hi, I'm Bhanu Sharma</h1>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I am a *Full Stack Developer* deal with Web and App. I have done my first internship of **AI/ML & Deep Learning** into the **Microsoft & Edunet Foundation**
+And now I am in **Brudite (Nirvana)**
+
+---
+
+## Tech Stack
+- 🧑‍💻 Programming Languages:-  💻 `C` | 💻 `C++` | 🐍 `Python` | ☕ `Java`
+- 🌐 Frontend:-  🌐 `HTML` | 🎨 `CSS` | ⚡ `JavaScript` | ⚛️ `React.js` | 📱 `React Native`
+- 🛠️ Backend:-  🧩 `Node.js` | 🚂 `Express.js`
+- 🗄️ Databases:-  🍃 `MongoDB` | 🐬 `MySQL`
+- ⚙️ Tools:-  🔧 `Git` | 🐙 `GitHub` | 🖊️ `VS Code` | 🔍 `Postman` | 🕹️ `Unity`
+
+---
+
+## 🌐 Let's Connect
+
+- 📷 [Instagram](https://instagram.com/yourusername)
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 💬 Always open for collaborations or tech discussions!
+
+---
+
+> “Learning never stops. I'm not just building projects — I'm building myself.” 🚀
