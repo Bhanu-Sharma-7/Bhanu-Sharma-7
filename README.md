@@ -1,35 +1,30 @@
 <div align="center">
-  <img src="https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1002365/1632672277_Steam-1200x207.png" alt="Banner" width="100%" />
-</div> 
-
----
-
-<div align="center">
-  <h1>Hi, I'm Bhanu Sharma</h1>
+  <img src="https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1002365/1632672277_Steam-1200x207.png" alt="Banner" width="100%"/>
 </div>
 
----
-
-I am a *Full Stack Developer* deal with Web and App. I have done my first internship of **AI/ML & Deep Learning** into the **Microsoft & Edunet Foundation**
-And now I am in **Brudite (Nirvana)**
+# Bhanu Sharma  
+**Full Stack Developer | Web & Mobile Specialist**
 
 ---
 
-## Tech Stack
-- 🧑‍💻 Programming Languages:-  💻 `C` | 💻 `C++` | 🐍 `Python` | ☕ `Java`
-- 🌐 Frontend:-  🌐 `HTML` | 🎨 `CSS` | ⚡ `JavaScript` | ⚛️ `React.js` | 📱 `React Native`
-- 🛠️ Backend:-  🧩 `Node.js` | 🚂 `Express.js`
-- 🗄️ Databases:-  🍃 `MongoDB` | 🐬 `MySQL`
-- ⚙️ Tools:-  🔧 `Git` | 🐙 `GitHub` | 🖊️ `VS Code` | 🔍 `Postman` | 🕹️ `Unity`
+## 🛠️ Technology Stack
+**Languages:** `C` `C++` `Python` `Java`  
+**Frontend:** `React.js` `React Native` `JavaScript`  
+**Backend:** `Node.js` `Express.js`  
+**Databases:** `MongoDB` `MySQL`
 
 ---
 
-## 🌐 Let's Connect
-
-- 📷 [Instagram](https://instagram.com/yourusername)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 💬 Always open for collaborations or tech discussions!
+## 📌 Currently
+Building solutions at **Brudite (Nirvana)**  
+Previously: AI/ML Intern at **Microsoft + Edunet Foundation**
 
 ---
 
-> “Learning never stops. I'm not just building projects — I'm building myself.” 🚀
+## 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhanu-dev/)
+[![Email](https://img.shields.io/badge/Email-bhanusharma14581@gmail.com-D14836?style=flat&logo=gmail)](mailto:bhanusharma14581@gmail.com)
+
+---
+
+> "Clean code solves problems. Great code prevents them."
