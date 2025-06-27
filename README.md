@@ -3,22 +3,29 @@
 </div>
 
 # Bhanu Sharma  
-**Full Stack Developer | Web & Mobile Specialist**
+**Web Developmer**
 
 ---
 
 ## 🛠️ Technology Stack
 **Languages:** `C` `C++` `Python` `Java`  
-**Frontend:** `React.js` `React Native` `JavaScript`  
+**Frontend:** `React.js` `JavaScript` `HTML` `CSS`  
 **Backend:** `Node.js` `Express.js`  
 **Databases:** `MongoDB` `MySQL`
 
 ---
 
 ## 📌 Currently
-Building solutions at **Brudite (Nirvana)**  
+Building web solutions at **Brudite (Nirvana)**  
 Previously: AI/ML Intern at **Microsoft + Edunet Foundation**
 
 ---
 
 > "Clean code solves problems. Great code prevents them."
+
+---
+
+## 📊 GitHub Contribution Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/BhanuSharma" alt="Bhanu Sharma's GitHub chart" />
+</p>
