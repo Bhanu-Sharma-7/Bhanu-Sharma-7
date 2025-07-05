@@ -1,24 +1,23 @@
 <div align="center">
-  <img src="https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1002365/1632672277_Steam-1200x207.png" alt="Banner" width="100%"/>
+  <img src="https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1002365/1632672277_Steam-1200x207.png" alt="Bhanu Sharma Banner" width="100%" />
 </div>
 
-# Bhanu Sharma  
-**Web Developmer**
+<h1 align="center">Bhanu Sharma</h1>
 
 ---
 
-## 🛠️ Technology Stack
-**Languages:** `C` `C++` `Python` `Java`  
-**Frontend:** `React.js` `JavaScript` `HTML` `CSS`  
-**Backend:** `Node.js` `Express.js`  
-**Databases:** `MongoDB` `MySQL`
+## 🧰 Tech Stack
+
+### 💻 Languages  
+`Python` `C` `C++` `JavaScript`
+
+### 🌐 Web Development  
+`React.js` `Node.js` `Express.js` `Three.js` `FastAPI`
+
+### 🗃️ Databases  
+`PostgreSQL` `MongoDB`
 
 ---
 
-## 📌 Currently
-Building web solutions at **Brudite (Nirvana)**  
-Previously: AI/ML Intern at **Microsoft + Edunet Foundation**
-
----
-
-> "Clean code solves problems. Great code prevents them."
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhanu-sharma-dev)
