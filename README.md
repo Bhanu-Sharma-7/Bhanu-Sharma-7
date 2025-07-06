@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://images.app.goo.gl/eyYgRr5y2pzyPC7Y6" alt="Bhanu Sharma Professional Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <!-- Replace with your direct image URL -->
+  <img src="https://i.imgur.com/UeG5QrJ.png" alt="Bhanu Sharma Professional Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
 <h1 align="center">Bhanu Sharma</h1>
@@ -20,12 +21,12 @@
 ### 🗃️ Databases & ORMs  
 `PostgreSQL` `MongoDB` `Mongoose` `SQLAlchemy`
 
-### � DevOps & Tools  
+### 🛠️ DevOps & Tools  
 `Docker` `Git` `GitHub Actions` `Postman` `JIRA`
 
 ---
 
 ## 📬 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-sharma-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanusharma-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
