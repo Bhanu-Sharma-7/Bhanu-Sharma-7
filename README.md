@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace with your direct image URL -->
-  <img src="https://i.imgur.com/UeG5QrJ.png" alt="Bhanu Sharma Professional Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="https://hedwig-cf.netmarble.com/forum-common/sololv/slv_en/eb35b7e5ee964dcb846aa06138850c37_1715142429794.gif" alt="Bhanu Sharma Professional Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
 <h1 align="center">Bhanu Sharma</h1>
