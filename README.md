@@ -1,6 +1,7 @@
 ```zsh
 > neofetch
-
+```
+```zsh
 bhanu@github
 -------------------------
 OS: Windows 11 x86_64
