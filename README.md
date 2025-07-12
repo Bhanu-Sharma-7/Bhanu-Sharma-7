@@ -1,13 +1,9 @@
 ```zsh
 > neofetch
 ```
+
 ```zsh
 bhanu@github
--------------------------
-OS: Windows 11 x86_64
-Host: ASUS TUF Gaming F15
-CPU: 11th Gen Intel i5-11400H (12) @ 2.6 GHz
-GPU: NVIDIA GeForce RTX 3050
 -------------------------
 Name: Bhanu Sharma
 Uptime: 21 Years
@@ -16,5 +12,8 @@ Location: India
 Runtime: Node.js
 Frameworks: React.js
 Languages: JavaScript, TypeScript, Python
+Focus: Web & App Development
+Current: Portfolio Website, Brudite Internship
+Learning: FastAPI, AWS, Docker, Redux
 About: A passionate full stack developer who codes better than he sings 😅
 -------------------------
