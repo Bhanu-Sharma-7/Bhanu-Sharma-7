@@ -1,7 +1,6 @@
 ```zsh
 > neofetch
 ```
-
 ```zsh
 bhanu@github
 -------------------------
