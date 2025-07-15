@@ -1,3 +1,4 @@
+<pre>
    ___   ___   ___   _____ 
   |__ \ / _ \ / _ \ | ____|
      ) | | | | | | || |__  
@@ -5,6 +6,7 @@
    / /_| |_| | |_| | ___) |
   |____|\___/ \___/ |____/ 
 
+       🚀 Since 2005 🚀
 
 > Loading Bhanu Sharma's Dev Terminal...
 [██████████░░░░░░░░░░░░░░░░] 27%
@@ -19,10 +21,10 @@
 🎯 Focus      : Web & App Development | Clean UI/UX  
 😄 About      : Codes better than he sings 😅  
 
-> Connect with me:  
+Connect with me:  
 🌐 GitHub     : https://github.com/bhanusharma  
 📫 Email      : bhanu@example.com  
 📱 LinkedIn   : linkedin.com/in/bhanusharma  
 
-> Tip: “Great code starts with great curiosity — since 2005” ⚡
-
+Tip: “Great code starts with great curiosity — since 2005” ⚡
+</pre>
