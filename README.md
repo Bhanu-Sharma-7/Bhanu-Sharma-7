@@ -9,7 +9,6 @@
        🚀 Since 2005 🚀
 
 > Loading Bhanu Sharma's Dev Terminal...
-[██████████░░░░░░░░░░░░░░░░] 27%
 
 👨‍💻 Name       : Bhanu Sharma  
 📍 Location   : India  
@@ -21,10 +20,9 @@
 🎯 Focus      : Web & App Development | Clean UI/UX  
 😄 About      : Codes better than he sings 😅  
 
-Connect with me:  
-🌐 GitHub     : https://github.com/bhanusharma  
-📫 Email      : bhanu@example.com  
-📱 LinkedIn   : linkedin.com/in/bhanusharma  
+Connect with me:   
+📫 Email      : bhanusharma14581@gmail.com  
+📱 LinkedIn   : www.linkedin.com/in/bhanu-sharma-dev  
 
 Tip: “Great code starts with great curiosity — since 2005” ⚡
 </pre>
