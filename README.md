@@ -6,7 +6,6 @@
    / /_| |_| | |_| | ___) |
   |____|\___/ \___/ |____/ 
 
-       🚀 Since 2005 🚀
 
 > Loading Bhanu Sharma's Dev Terminal...
 
