@@ -1,51 +1,51 @@
-#!/bin/bash
-# Bhanu Sharma - Interactive Developer Profile
+  ____   _   _   _   _   _____   _     _  
+ | __ ) | | | | | \ | | |_   _| | |   / \ 
+ |  _ \ | | | | |  \| |   | |   | |  / _ \
+ | |_) || |_| | | |\  |   | |   | |_/ ___ \
+ |____/  \___/  |_| \_|   |_|   |____/_/ \_\
+ 
+  ____  _   _   ____   ___   __  __   _   _   _ 
+ / ___|| | | | / ___| / _ \ |  \/  | | | | | / |
+ \___ \| |_| || |    | | | || |\/| | | |_| || | 
+  ___) |  _  || |___ | |_| || |  | | |  _  || | 
+ |____/|_| |_| \____| \___/ |_|  |_| |_| |_||_| 
 
-clear
-echo -e "\033[1;36m
-   ____  _   _ _   _ _   _  ____ _____   _______ 
-  | __ )| | | | \ | | \ | |/ ___|_ _\ \ / / ____|
-  |  _ \| | | |  \| |  \| | |  _ | | \ V /|  _|  
-  | |_) | |_| | |\  | |\  | |_| || |  | | | |___ 
-  |____/ \___/|_| \_|_| \_|\____|___| |_| |_____|
-\033[0m"
+»»————- ★ ————-««
 
-echo -e "\033[1;33m> Initializing Developer Console...\033[0m"
-echo -e "\033[1;32m> System Check: [||||||||||] 100%\033[0m"
-echo -e "\033[1;34m> Loading Profile Data...\033[0m\n"
+  𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙸𝙾𝙽𝙰𝙻 𝙿𝚁𝙾𝙵𝙸𝙻𝙴
+»»————- ★ ————-««
 
-function displayProfile() {
-  echo -e "\033[1;37m╔════════════════════════════════════════════╗"
-  echo -e "║ \033[1;36m🚀  B H A N U   S H A R M A   P R O F I L E  🚀 \033[1;37m║"
-  echo -e "╚════════════════════════════════════════════╝\033[0m"
-  
-  echo -e "\n\033[1;37m▌\033[1;34mCORE SYSTEMS\033[0m"
-  echo -e " \033[1;37m├─ \033[1;33mName\033[0m: Bhanu Sharma"
-  echo -e " \033[1;37m├─ \033[1;33mLocation\033[0m: India"
-  echo -e " \033[1;37m├─ \033[1;33mCurrent Role\033[0m: Full Stack Developer Intern @ Brudite"
-  
-  echo -e "\n\033[1;37m▌\033[1;34mTECH STACK\033[0m"
-  echo -e " \033[1;37m├─ \033[1;32mMERN\033[0m: MongoDB | Express | React | Node.js"
-  echo -e " \033[1;37m├─ \033[1;35mDevOps\033[0m: Docker | AWS | CI/CD"
-  echo -e " \033[1;37m├─ \033[1;36mLearning\033[0m: FastAPI | System Design | Microservices"
-  
-  echo -e "\n\033[1;37m▌\033[1;34mPROJECTS\033[0m"
-  echo -e " \033[1;37m├─ \033[1;33mPortfolio 3.0\033[0m: Interactive developer portfolio"
-  echo -e " \033[1;37m├─ \033[1;33mE-Commerce API\033[0m: Scalable backend solution"
-  echo -e " \033[1;37m└─ \033[1;33mTaskFlow\033[0m: Productivity management system"
-  
-  echo -e "\n\033[1;37m▌\033[1;34mCONNECT\033[0m"
-  echo -e " \033[1;37m├─ \033[4;36mbhanusharma14581@gmail.com\033[0m"
-  echo -e " \033[1;37m├─ \033[4;36mlinkedin.com/in/bhanu-sharma-dev\033[0m"
-  echo -e " \033[1;37m└─ \033[4;36mgithub.com/bhanu-dev\033[0m"
-  
-  echo -e "\n\033[1;37m╔════════════════════════════════════════════╗"
-  echo -e "║ \033[3;35m\"Code is poetry in motion\" - Since 2005\033[0m      \033[1;37m║"
-  echo -e "╚════════════════════════════════════════════╝\033[0m"
-}
+💻 𝗡𝗮𝗺𝗲: Bhanu Sharma
+🌎 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻: India
+🏢 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆: Full Stack Developer Intern @ Brudite
 
-displayProfile
+»»————- ★ ————-««
 
-echo -e "\n\033[1;32m> System Ready:\033[0m"
-echo -e " \033[1;37mType \033[1;33m'projects'\033[0m \033[1;37mto view detailed work"
-echo -e " \033[1;37mType \033[1;33m'contact'\033[0m \033[1;37mfor connection options\033[0m\n"
+  𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺
+»»————- ★ ————-««
+
+🛠 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸: MongoDB | Express | React | Node.js
+☁️ 𝗖𝗹𝗼𝘂𝗱/𝗗𝗲𝘃𝗢𝗽𝘀: AWS | Docker | CI/CD
+📚 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: FastAPI | System Design | Microservices
+
+»»————- ★ ————-««
+
+  𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
+»»————- ★ ————-««
+
+🌟 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝟯.𝟬: Interactive developer portfolio with 3D elements
+🛒 𝗘-𝗰𝗼𝗺𝗺𝗲𝗿𝗰𝗲 𝗔𝗣𝗜: Scalable backend with JWT auth
+📝 𝗧𝗮𝘀𝗸𝗙𝗹𝗼𝘄: Productivity app with real-time sync
+
+»»————- ★ ————-««
+
+  𝙲𝙾𝙽𝚃𝙰𝙲𝚃
+»»————- ★ ————-««
+
+📧 𝗘𝗺𝗮𝗶𝗹: bhanusharma14581@gmail.com
+🔗 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻: linkedin.com/in/bhanu-sharma-dev
+🐙 𝗚𝗶𝘁𝗛𝘂𝗯: github.com/bhanu-dev
+
+»»————- ★ ————-««
+
+"Turning coffee into code since 2005" ☕>_
