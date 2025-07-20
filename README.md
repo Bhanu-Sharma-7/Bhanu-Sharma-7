@@ -1,21 +1,27 @@
-B H A N U   S H A R M A
-Full Stack Developer
+<pre>
+   ___   ___   ___   _____ 
+  |__ \ / _ \ / _ \ | ____|
+     ) | | | | | | || |__  
+    / /| | | | | | ||___ \ 
+   / /_| |_| | |_| | ___) |
+  |____|\___/ \___/ |____/ 
 
-📍 India | 🏢 Interning @ Brudite
 
-🛠️ TECH STACK
-• MERN: MongoDB | Express | React | Node.js
-• DevOps: Docker | AWS Basics
-• Learning: FastAPI | System Design
+> Loading Bhanu Sharma's Dev Terminal...
 
-💻 PROJECTS
-• Portfolio Website - Showcase of my work
-• E-commerce API - Backend with JWT auth
-• Task Manager - Simple productivity app
+👨‍💻 Name       : Bhanu Sharma  
+📍 Location   : India  
+🧠 Stack      : MERN (MongoDB, Express, React, Node.js)  
+🛠️ Tools      : Docker, AWS  
+📚 Learning   : FastAPI, System Design, DevOps  
+🚀 Projects   : Portfolio Website  
+💼 Internship : Currently working as Intern at Brudite  
+🎯 Focus      : Web & App Development | Clean UI/UX  
+😄 About      : Codes better than he sings 😅  
 
-📫 CONNECT
-• Email: bhanusharma14581@gmail.com
-• LinkedIn: linkedin.com/in/bhanu-sharma-dev
-• GitHub: github.com/bhanu-dev
+Connect with me:   
+📫 Email      : bhanusharma14581@gmail.com  
+📱 LinkedIn   : www.linkedin.com/in/bhanu-sharma-dev  
 
-"Code, coffee, repeat since 2005" ☕
+Tip: “Great code starts with great curiosity — since 2005” ⚡
+</pre>
