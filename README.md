@@ -11,8 +11,7 @@
 
 👨‍💻 Name       : Bhanu Sharma  
 📍 Location   : India  
-🧠 Stack      : MERN (MongoDB, Express, React, Node.js)  
-🛠️ Tools      : Docker, AWS  
+🧠 Stack      : MERN (MongoDB, Express, React, Node.js)    
 📚 Learning   : FastAPI, System Design, DevOps  
 🚀 Projects   : Portfolio Website  
 💼 Internship : Currently working as Intern at Brudite  
