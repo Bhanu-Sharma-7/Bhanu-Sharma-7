@@ -18,10 +18,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=radical&hide_border=true)](https://github.com/Bhanu-Sharma-7)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Sharma-7&layout=compact&theme=radical&hide_border=true)](https://github.com/Bhanu-Sharma-7)
 
-<!-- Streak - Fixed Version -->
-<h2>🔥 Streak Stats</h2>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bhanu-Sharma-7&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Bhanu-Sharma-7)
-
 <!-- Connect -->
 <h2>🤝 Let's Connect</h2>
 <p>
