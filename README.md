@@ -1,51 +1,76 @@
-<!-- 🌟 Personal Introduction -->
+<!-- 🌟 Cosmic Introduction -->
 <div align="center">
-  <h1>Hi, I'm Bhanu Sharma 👋</h1>
-  <h3>Full-Stack MERN Developer | UI/UX Enthusiast | System Design Explorer</h3>
-  <p>🚀 Building scalable web apps with clean code, sleek UI, and solid system design.</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&width=435&lines=console.log(%22Hello%2C+World!%22);Bhanu+Sharma+here...;Full-Stack+Alchemist;Turning+%3Ccode%3E+into+magic+since+2020" alt="Typing animation" />
+  
+  <h3>🛠️ MERN Stack Architect | 🎨 UI/UX Artisan | 🧠 System Design Philosopher</h3>
+  <p>⚡ Crafting digital experiences that live at the intersection of elegance and efficiency</p>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150">
 </div>
 
 ---
 
-<!-- ⚙️ Tech Stack -->
-### ⚙️ Tech Stack & Tools
+<!-- 🧰 Toolbox -->
+### 🧰 My Digital Toolbox
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,tailwind,figma,flask,fastapi,python,aws,postgres,postman,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,next,node,express,mongo,ts,tailwind,figma,threejs,graphql,aws,postgres,git,github,vscode" />
+  <br/>
+  <sub><em>+ secret sauce of custom hooks and micro-optimizations</em></sub>
 </div>
 
 ---
 
-<!-- 🚀 Projects -->
-### 🚀 Featured Projects
+<!-- 🚀 Project Showcase -->
+### 🚀 Curated Creations
 
-- 🔐 [**MERN Auth App**](https://github.com/Bhanu-Sharma-7/mern-auth)  
-  Secure JWT authentication with React Hooks and Express backend.
+- **🛡️ Sentinel Auth**  
+  [![MERN Shield](https://img.shields.io/badge/MERN-Auth_System-7F3FBF?style=flat-square)](https://github.com/Bhanu-Sharma-7/mern-auth)  
+  Next-gen authentication with biometric fallbacks and anomaly detection
 
-- 🆘 [**Road Safety App**](https://github.com/Bhanu-Sharma-7/road-safety-app)  
-  SOS + alert system for safer roads, focused on accident detection and alerts.
+- **🚨 Guardian Highway**  
+  [![Road Safety](https://img.shields.io/badge/IoT-Road_Safety_System-00AA55?style=flat-square)](https://github.com/Bhanu-Sharma-7/road-safety-app)  
+  AI-powered accident prediction with mesh-network alerts
 
-> 🔎 Explore more on my [GitHub profile →](https://github.com/Bhanu-Sharma-7?tab=repositories)
+- **🎨 PixelForge** *(Coming Soon)*  
+  [![Design](https://img.shields.io/badge/Beta-Design_System-FF6B6B?style=flat-square)]()  
+  My open-source design system for rapid prototyping
 
 ---
 
-<!-- 📈 GitHub Stats -->
-### 📈 GitHub Stats
+<!-- 📊 Code Chronicles -->
+### 📊 GitHub Odyssey
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-Sharma-7&theme=github-compact&area=true&hide_border=true" width="48%" />
+  
+  ![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Sharma-7&layout=compact&theme=nightowl&hide_border=true)
+  
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-Sharma-7&theme=react-dark&area=true&hide_border=true&custom_title=My+Code+Expedition)
 </div>
 
 ---
 
-<!-- 📫 Contact -->
-### 📫 Let’s Connect  
+<!-- 🌌 Connect -->
+### 🌌 Cosmic Communication Channels
 <div align="center">
-  <a href="mailto:bhanusharma14581@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/bhanu-sharma-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Bhanu-Sharma-7"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:bhanusharma14581@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-FFA500?style=for-the-badge&logo=mail.ru&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/bhanu-sharma-dev">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Bhanu-Sharma-7">
+    <img src="https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://bhanu-sharma-dev.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-8A2BE2?style=for-the-badge"/>
+  </a>
 </div>
 
 ---
 
-<!-- 💬 Quote -->
-<p align="center"><i>“Design is intelligence made visible. Code makes it real.” – Bhanu Sharma</i></p>
+<!-- 🌠 Philosophy -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30">
+  <em>"I don't just write code - I compose digital symphonies where every semicolon has purpose"</em>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30">
+</p>
