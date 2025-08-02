@@ -1,139 +1,116 @@
-<!-- 🌠 Cosmic Introduction -->
+<!-- 👋 Professional Introduction -->
 <div align="center">
-  <!-- Animated typing SVG with cursor -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=500&color=7F3FBF&vCenter=true&width=500&height=50&lines=Welcome+to+my+digital+universe%2C;I'm+Bhanu+Sharma;Full-Stack+Visionary;UI%2FUX+Connoisseur;System+Design+Strategist" alt="Typing animation" />
+  <h1>Bhanu Sharma</h1>
+  <h3>Full-Stack Engineer | System Architect | UI/UX Specialist</h3>
 
-  <!-- Interactive badge with hover text -->
-  <a href="#" title="3+ years transforming coffee into code">
-    <img src="https://img.shields.io/badge/🚀_Professional_Code_Alchemist-7F3FBF?style=for-the-badge&logo=starship" />
+  <!-- Professional badge -->
+  <a href="https://www.linkedin.com/in/bhanu-sharma-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/3%2B%20years%20of%20development%20experience-7F3FBF?style=flat&logo=linkedin&logoColor=white" alt="Professional Experience" />
   </a>
-
-  <!-- Floating astronaut GIF -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Astronaut coding" onmouseover="this.src='https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif'" onmouseout="this.src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'" />
+  
+  <!-- Clean typing animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7F3FBF&center=true&width=600&height=40&lines=Building+scalable+solutions+with+clean+code;Crafting+intuitive+user+experiences;Designing+robust+system+architectures" alt="Professional specialties" />
 </div>
 
 ---
 
-<!-- 🛠️ Interactive Toolbox -->
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Interactive Toolbox
+### 🛠️ Technical Expertise
 
-<!-- Tooltip tech stack -->
 <div align="center">
-  <a href="#" title="React - My UI weapon of choice"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="#" title="Node.js - Backend powerhouse"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-  <a href="#" title="TypeScript - Because JavaScript needed types"><img src="https://skillicons.dev/icons?i=ts" /></a>
-  <a href="#" title="MongoDB - Flexible NoSQL"><img src="https://skillicons.dev/icons?i=mongo" /></a>
-  <a href="#" title="AWS - Cloud domination"><img src="https://skillicons.dev/icons?i=aws" /></a>
-  <a href="#" title="Three.js - 3D magic"><img src="https://skillicons.dev/icons?i=threejs" /></a>
-  <br/>
-  <sub><em>✨ Hover over icons to see why I love them</em></sub>
+  <h4>Core Competencies</h4>
   
-  <!-- Progress bars (using SVG) -->
-  <svg width="100%" height="20">
-    <text x="0" y="15" font-family="Arial" font-size="12">Code Quality:</text>
-    <rect x="80" y="5" width="200" height="10" fill="#e0e0e0" rx="5" ry="5"/>
-    <rect x="80" y="5" width="180" height="10" fill="#7F3FBF" rx="5" ry="5"/>
-    <text x="290" y="15" font-family="Arial" font-size="10">90%</text>
-  </svg>
+  <!-- Organized tech stack -->
+  <table>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>DevOps</th>
+      <th>Database</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind" alt="Frontend technologies" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,python" alt="Backend technologies" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions" alt="DevOps technologies" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Database technologies" />
+      </td>
+    </tr>
+  </table>
   
-  <svg width="100%" height="20">
-    <text x="0" y="15" font-family="Arial" font-size="12">UI Polish:</text>
-    <rect x="80" y="5" width="200" height="10" fill="#e0e0e0" rx="5" ry="5"/>
-    <rect x="80" y="5" width="170" height="10" fill="#00AA55" rx="5" ry="5"/>
-    <text x="290" y="15" font-family="Arial" font-size="10">85%</text>
-  </svg>
+  <sub><em>Proficient in modern development methodologies and architectural patterns</em></sub>
 </div>
 
 ---
 
-<!-- 🎮 Interactive Projects -->
-### 🕹️ Interactive Project Showcase
+### 🏆 Notable Projects
 
-<!-- Project cards with hover effects -->
+<!-- Professional project showcase -->
 <table>
   <tr>
-    <td width="33%">
+    <td width="50%">
+      <h4>MERN Authentication System</h4>
       <a href="https://github.com/Bhanu-Sharma-7/mern-auth">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhanu-Sharma-7&repo=mern-auth&theme=radical&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhanu-Sharma-7&repo=mern-auth&theme=default&show_owner=true" />
       </a>
+      <p>Secure authentication framework with JWT and OAuth 2.0 implementation</p>
+      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
     </td>
-    <td width="33%">
+    <td width="50%">
+      <h4>AI-Powered Road Safety Application</h4>
       <a href="https://github.com/Bhanu-Sharma-7/road-safety-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhanu-Sharma-7&repo=road-safety-app&theme=dark&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhanu-Sharma-7&repo=road-safety-app&theme=default&show_owner=true" />
       </a>
+      <p>Computer vision solution for real-time road hazard detection</p>
+      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" />
     </td>
-    <td width="33%">
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhanu-Sharma-7&repo=pixel-forge&theme=merko&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>🔐 Auth System with JWT & OAuth</td>
-    <td>🛣️ AI Road Safety Monitor</td>
-    <td>🎨 Design System (Coming Soon)</td>
   </tr>
 </table>
 
 ---
 
-<!-- 📊 Dynamic Stats -->
-### 📊 Live GitHub Pulse
+### 📈 Professional Metrics
 
-<!-- Dynamic stats with refresh -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+  <!-- Clean stats cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" />
   
-  <!-- WakaTime stats (if you use it) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bhanu-Sharma-7&theme=radical&hide_border=true&layout=compact" alt="Coding time" />
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Sharma-7&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
   
-  <!-- Trophy case -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhanu-Sharma-7&theme=radical&margin-w=15&no-frame=true" alt="Trophies" />
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanu-Sharma-7&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<!-- 🌐 Interactive Connect -->
-### 🎯 Let's Collide Ideas
+### 📫 Professional Contact
 
-<!-- Clickable badges with animations -->
 <div align="center">
   <a href="mailto:bhanusharma14581@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Shoot_me_an_Email-FFA500?style=for-the-badge&logo=gmail&logoColor=white" onmouseover="this.src='https://img.shields.io/badge/📧_bhanusharma14581@gmail.com-FFA500?style=for-the-badge&logo=gmail&logoColor=white'" onmouseout="this.src='https://img.shields.io/badge/📧_Shoot_me_an_Email-FFA500?style=for-the-badge&logo=gmail&logoColor=white'" />
+    <img src="https://img.shields.io/badge/Email-bhanusharma14581%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  <a href="https://linkedin.com/in/bhanu-sharma-dev">
-    <img src="https://img.shields.io/badge/👔_Let's_network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" onmouseover="this.src='https://img.shields.io/badge/👔_bhanu--sharma--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'" onmouseout="this.src='https://img.shields.io/badge/👔_Let's_network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'" />
+  <a href="https://linkedin.com/in/bhanu-sharma-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhanu%20Sharma-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <a href="https://github.com/Bhanu-Sharma-7">
-    <img src="https://img.shields.io/badge/💻_Explore_my_code-181717?style=for-the-badge&logo=github&logoColor=white" onmouseover="this.src='https://img.shields.io/badge/💻_@Bhanu--Sharma--7-181717?style=for-the-badge&logo=github&logoColor=white'" onmouseout="this.src='https://img.shields.io/badge/💻_Explore_my_code-181717?style=for-the-badge&logo=github&logoColor=white'" />
+  <a href="https://github.com/Bhanu-Sharma-7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Bhanu--Sharma--7-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 ---
 
-<!-- 🎇 Interactive Footer -->
 <div align="center">
-  <!-- Star counter -->
-  <img src="https://img.shields.io/github/stars/Bhanu-Sharma-7?label=Total%20Stars&style=social" /> 
-  
-  <!-- Visitor counter (using shields.io) -->
-  <img src="https://komarev.com/ghpvc/?username=Bhanu-Sharma-7&label=Profile+Views&color=7F3FBF&style=flat" alt="Profile views" />
-  
-  <!-- Random quote generator -->
-  <details>
-    <summary>✨ Click for a random dev quote</summary>
-    <blockquote>
-      <p id="random-quote">"The best error message is the one that never shows up."</p>
-      <script>
-        const quotes = [
-          "Debugging: Being the detective in a crime movie where you're also the murderer.",
-          "There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.",
-          "If at first you don't succeed, call it version 1.0"
-        ];
-        document.getElementById('random-quote').innerText = quotes[Math.floor(Math.random()*quotes.length)];
-      </script>
-    </blockquote>
-  </details>
+  <sub>Open to new opportunities and technical collaborations</sub>
 </div>
