@@ -1,11 +1,11 @@
 <!-- Modern Header with Subtle Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=32&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Bhanu+Sharma" alt="Animated Greeting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Bhanu+Sharma" alt="Animated Greeting" />
   
   <h3>Building Scalable Systems | Cloud-Native Architect</h3>
   
   <!-- Minimalist Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+  <img src="https://i.imgur.com/waxVImv.png" width="100%" alt="Divider" />
 </div>
 
 ---
@@ -62,14 +62,14 @@ Real-time anomaly detection for IoT devices using TensorFlow Lite and MQTT.
 
 <div align="center">
   
-  ![Weekly Activity](https://raw.githubusercontent.com/Bhanu-Sharma-7/Bhanu-Sharma-7/main/assets/metrics.plugin.isocalendar.fullyear.svg)
+  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=algolia&hide_title=true)
   
-  <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=algolia&hide_title=true" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Sharma-7&layout=compact&theme=algolia&hide_title=true" width="48%" />
+  <div style="display: flex; gap: 10px; justify-content: center; margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Sharma-7&layout=compact&theme=algolia&hide_title=true" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanu-Sharma-7&theme=algolia" width="45%" />
   </div>
   
-  ![Contribution Graph](https://raw.githubusercontent.com/Bhanu-Sharma-7/Bhanu-Sharma-7/main/assets/metrics.plugin.contributors.svg)
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-Sharma-7&theme=react-dark&area=true&hide_border=true)
 </div>
 
 ---
