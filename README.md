@@ -1,105 +1,74 @@
-<!-- 👨‍🚀 Futuristic Hero Section -->
+<!-- Header Section -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Bhanu+Sharma;Cloud+Native+Engineer+%7C+System+Builder" alt="Typing SVG" />
+# 👋 Hi, I'm Bhanu Sharma  
+**Cloud-Native Developer | System Architect | OSS Enthusiast**
 
-  <br/><br/>
-
-  <img src="https://github.com/Bhanu-Sharma-7/Bhanu-Sharma-7/assets/your-pfp" width="160" style="border-radius: 50%; box-shadow: 0 4px 20px rgba(58,134,255,0.6);" alt="Avatar" />
-
-  <br/><br/>
-
-  <p>
-    <strong>🚀 Scaling Ideas into Real-World Systems</strong><br/>
-    <code>DevOps | Infra | AI on Edge | Full-Stack | OSS Advocate</code>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3A86FF&text=Welcome%20to%20My%20Space&height=80&fontSize=28&descAlignY=70&animation=fadeIn" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhanu.tech-FF4D4D?style=flat-square&logo=googlechrome&logoColor=white)](https://bhanu.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BhanuSharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-sharma-dev)
+[![Email](https://img.shields.io/badge/Email-bhanusharma14581@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhanusharma14581@gmail.com)
 
 </div>
 
 ---
 
-## 🧰 Tech Arsenal
+## 🧰 Tech Stack
+
+**Languages**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frameworks & Tools**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white)
+
+**Infrastructure & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔁 [Distributed Task Orchestrator](https://github.com/Bhanu-Sharma-7/task-orchestrator)  
+**A fault-tolerant system for managing microservice workflows using Redis Streams & Go.**  
+**Tech**: Go, Redis, gRPC, Kubernetes
+
+### 🧠 [Edge AI Monitor](https://github.com/Bhanu-Sharma-7/edge-ai-monitor)  
+**Real-time anomaly detection on edge IoT devices using TensorFlow Lite.**  
+**Tech**: Python, TensorFlow Lite, MQTT, Rust (WASM)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=go,py,ts,js,rust" />
-</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,next,tailwind" />
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs,grpc,redis,mongodb,postgres" />
-</td>
-</tr>
-<tr>
-<td><b>DevOps</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,nginx" />
-</td>
-</tr>
-</table>
+![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Sharma-7&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Bhanu-Sharma-7&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-## ✨ Featured Projects
+## 📫 Contact
 
-### 🔁 **Distributed Task Orchestrator**
-> Event-driven task processor using Go, Redis Streams, and gRPC.
-
-[🔗 GitHub](https://github.com/Bhanu-Sharma-7/task-orchestrator)
-
-### 🧠 **Edge AI Monitor**
-> Lightweight anomaly detection for IoT using TFLite + MQTT.
-
-[🔗 GitHub](https://github.com/Bhanu-Sharma-7/edge-ai-monitor)
+- **Email**: [bhanusharma14581@gmail.com](mailto:bhanusharma14581@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/bhanu-sharma-dev](https://linkedin.com/in/bhanu-sharma-dev)  
+- **Portfolio**: [bhanu.tech](https://bhanu.tech)
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=github_dark&hide_title=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhanu-Sharma-7&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" width="45%" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-Sharma-7&theme=github-compact&hide_border=true" />
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:bhanusharma14581@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/bhanu-sharma-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://bhanu.tech">
-  <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF&height=100&section=footer"/>
-  <br/>
-  <strong>“Think in Systems. Code in Silence. Ship at Scale.”</strong>
-</p>
+> *Thanks for stopping by! Feel free to connect or collaborate.* 🤝
