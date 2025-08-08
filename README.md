@@ -1,18 +1,25 @@
 <!-- Profile Header -->
 <div align="center">
 
-# 👋 Hey, I'm Bhanu Sharma  
-**Cloud-Native Developer | System Architect | OSS Enthusiast**
+# 👋 Hey, I'm <span style="background: linear-gradient(90deg, #FF4D4D, #FF9E00); -webkit-background-clip: text; color: transparent;">Bhanu Sharma</span>  
+**☁️ Cloud-Native Developer | 🏗 System Architect | 💻 OSS Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-bhanu.tech-FF4D4D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bhanu.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BhanuSharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-sharma-dev)
 [![Email](https://img.shields.io/badge/Email-bhanusharma14581@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanusharma14581@gmail.com)
 
+---
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=🚀+Building+scalable+distributed+systems;⚡+Lover+of+DevOps+and+Cloud;🤝+Always+open+to+collaboration)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 My Tech Arsenal
+
+<div align="center">
 
 **Languages**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -35,38 +42,41 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
+</div>
+
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Featured Projects
 
 ### 🔁 [Distributed Task Orchestrator](https://github.com/Bhanu-Sharma-7/task-orchestrator)  
-A **fault-tolerant** system for managing microservice workflows using **Redis Streams & Go**.  
-**Stack**: Go, Redis, gRPC, Kubernetes
+⚙️ **Fault-tolerant** system for managing microservice workflows using **Redis Streams & Go**.  
+**Tech Stack**: Go, Redis, gRPC, Kubernetes
 
 ### 🧠 [Edge AI Monitor](https://github.com/Bhanu-Sharma-7/edge-ai-monitor)  
-**Real-time anomaly detection** for edge IoT devices using **TensorFlow Lite**.  
-**Stack**: Python, TensorFlow Lite, MQTT, Rust (WASM)
+🤖 **Real-time anomaly detection** on edge IoT devices using **TensorFlow Lite**.  
+**Tech Stack**: Python, TensorFlow Lite, MQTT, Rust (WASM)
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Sharma-7&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Bhanu-Sharma-7&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Sharma-7&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Bhanu-Sharma-7&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-- **Email**: [bhanusharma14581@gmail.com](mailto:bhanusharma14581@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/bhanu-sharma-dev](https://linkedin.com/in/bhanu-sharma-dev)  
-- **Portfolio**: [bhanu.tech](https://bhanu.tech)
+- 📧 **Email**: [bhanusharma14581@gmail.com](mailto:bhanusharma14581@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/bhanu-sharma-dev](https://linkedin.com/in/bhanu-sharma-dev)  
+- 🌐 **Portfolio**: [bhanu.tech](https://bhanu.tech)
 
 ---
 
-> 💡 *"Code, break, fix, repeat — that's how you grow."*
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D&height=100&section=footer"/>
