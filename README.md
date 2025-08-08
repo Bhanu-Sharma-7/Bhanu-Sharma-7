@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
 
-# 👋 Hi, I'm Bhanu Sharma  
+# 👋 Hey, I'm Bhanu Sharma  
 **Cloud-Native Developer | System Architect | OSS Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bhanu.tech-FF4D4D?style=flat-square&logo=googlechrome&logoColor=white)](https://bhanu.tech)
