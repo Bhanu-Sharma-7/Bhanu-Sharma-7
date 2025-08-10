@@ -1,79 +1,212 @@
-<!-- HERO SECTION -->
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio - Bhanu Sharma</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Bhanu+Sharma;Cloud-Native+Developer;DevOps+Engineer;System+Architect" alt="Typing SVG" />
+    body {
+      background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+      color: #333;
+    }
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white)](https://bhanu-sharma-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-sharma-dev)
-[![Email](https://img.shields.io/badge/✉️%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanusharma14581@gmail.com)
+    header {
+      background: #222;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
 
-</div>
+    header h1 {
+      font-size: 2rem;
+      letter-spacing: 1px;
+    }
 
----
+    nav {
+      margin-top: 10px;
+    }
 
-## 🧭 About Me
-💡 **Problem Solver** – I design and automate **scalable systems**  
-⚡ **Efficiency-Driven** – My focus is **zero-downtime deployments**  
-🚀 **Innovation Lover** – Always exploring **new tech** to push boundaries  
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.3s ease;
+    }
 
----
+    nav a:hover {
+      color: #ff9800;
+    }
 
-## 🛠 Tech Arsenal
-<p align="center">
-<img src="https://skillicons.dev/icons?i=go,python,ts,nodejs,react,nextjs,aws,docker,kubernetes,terraform,postgres,mongodb,redis,prometheus,grafana&perline=8" />
-</p>
+    section {
+      padding: 50px 10%;
+      text-align: center;
+    }
 
----
+    section h2 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+      position: relative;
+      display: inline-block;
+    }
 
-## 🚀 Featured Projects
+    section h2::after {
+      content: '';
+      display: block;
+      height: 3px;
+      width: 50%;
+      background: #ff9800;
+      margin: 10px auto 0;
+    }
 
-### 🔹 [Distributed Task Orchestrator](https://github.com/Bhanu-Sharma-7/task-orchestrator)  
-_Fault-tolerant workflow engine using **Go & Redis Streams**_  
-`Go • Redis • gRPC • Kubernetes`
+    .about p {
+      max-width: 700px;
+      margin: auto;
+      line-height: 1.6;
+      font-size: 1.1rem;
+    }
 
-### 🔹 [Edge AI Monitor](https://github.com/Bhanu-Sharma-7/edge-ai-monitor)  
-_Real-time IoT anomaly detection using **TensorFlow Lite**_  
-`Python • TensorFlow Lite • MQTT • Rust (WASM)`
+    .projects {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      margin-top: 30px;
+    }
 
----
+    .project-card {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=react&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Sharma-7&layout=compact&theme=react&hide_border=true" height="160">
-</p>
+    .project-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+    }
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhanu-Sharma-7&theme=react&hide_border=true" height="160">
-</p>
+    .contact-form {
+      max-width: 600px;
+      margin: auto;
+      text-align: left;
+    }
 
----
+    .contact-form label {
+      display: block;
+      font-weight: 500;
+      margin: 15px 0 5px;
+    }
 
-## 🗓 My Dev Journey
-```mermaid
-timeline
-    title Bhanu Sharma - Developer Journey
-    2021 : 🚀 Started cloud & system design learning
-    2022 : 📚 Mastered Go, Kubernetes, Terraform
-    2023 : 🛠 Built Distributed Task Orchestrator
-    2024 : 🤖 Developed Edge AI Monitor for IoT
-    2025 : 🔥 Building advanced DevOps pipelines
+    .contact-form input, 
+    .contact-form textarea {
+      width: 100%;
+      padding: 10px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      outline: none;
+      font-size: 1rem;
+      transition: border 0.3s ease;
+    }
 
+    .contact-form input:focus,
+    .contact-form textarea:focus {
+      border: 1px solid #ff9800;
+    }
 
+    .contact-form button {
+      margin-top: 15px;
+      padding: 10px 20px;
+      background: #ff9800;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
 
----
+    .contact-form button:hover {
+      background: #e68900;
+    }
 
-📫 Contact
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 15px 0;
+      margin-top: 40px;
+    }
 
-<div align="center">📧 Email: bhanusharma14581@gmail.com
-💼 LinkedIn: linkedin.com/in/bhanu-sharma-dev
-🌐 Portfolio: bhanu-sharma-portfolio.vercel.app
+    @media (max-width: 768px) {
+      section {
+        padding: 40px 5%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Bhanu Sharma</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
 
-</div>
----
+  <section id="about" class="about">
+    <h2>About Me</h2>
+    <p>
+      Hi! I am Bhanu Sharma, a passionate web developer skilled in HTML, CSS, JavaScript, React, and more.
+      I am pursuing B.Tech in Computer Science and Engineering, and I love creating beautiful, functional web applications.
+    </p>
+  </section>
 
-<div align="center">✨ "Turning ideas into scalable reality" ✨
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="projects">
+      <div class="project-card">
+        <h3>Frontend Portfolio</h3>
+        <p>A responsive personal portfolio website made using HTML, CSS, and JavaScript.</p>
+      </div>
+      <div class="project-card">
+        <h3>React Todo App</h3>
+        <p>A simple and effective task management app built with React JS.</p>
+      </div>
+      <div class="project-card">
+        <h3>Weather App</h3>
+        <p>A live weather forecasting app using API integration and JavaScript.</p>
+      </div>
+    </div>
+  </section>
 
-</div>
-```
----
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <form class="contact-form">
+      <label for="name">Name</label>
+      <input type="text" id="name" placeholder="Your name" required>
+
+      <label for="email">Email</label>
+      <input type="email" id="email" placeholder="Your email" required>
+
+      <label for="message">Message</label>
+      <textarea id="message" rows="5" placeholder="Write your message here..." required></textarea>
+
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    &copy; 2025 Bhanu Sharma. All rights reserved.
+  </footer>
+</body>
+</html>
