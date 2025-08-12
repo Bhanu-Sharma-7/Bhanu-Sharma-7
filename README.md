@@ -36,7 +36,7 @@
 ![wave](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg)
 
 ## 📌 Projects
-- 🔗 [Frontend Work on GitHub](https://github.com/yourusername)  
+- 🔗 [Frontend Work on GitHub](https://github.com/bhanu-sharma)  
 - 📹 **YouTube Channel** – Teaching C++, DSA, and Web Development  
 - 🌐 Portfolio Website *(Coming Soon)*  
 
@@ -44,30 +44,30 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bhanu-sharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanu-sharma&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanu-sharma&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/bhanu-sharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/bhanu-sharma"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:bhanu.sharma@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=bhanu-sharma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ⭐ *Feel free to star my repositories and connect with me!* ⭐
