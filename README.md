@@ -1,73 +1,68 @@
 # Bhanu Sharma  
-**Computer Science Student | Full Stack Developer**  
+### Computer Science Student | Full Stack Developer  
+📍 Jaipur, India | 📧 bhanu.sharma@email.com  
+🔗 [Portfolio](https://bhanusharma.dev) | 📞 +91 YOUR-PHONE  
 
-📍 Arya College of Engineering & IT | 📧 bhanu.sharma@email.com  
-📞 +91 [Your Phone] | 🔗 [Portfolio Link](https://yourportfolio.com) | 🖇️ [LinkedIn](https://linkedin.com/in/yourprofile)  
-
----
-
-## Professional Summary  
-Results-driven Computer Science student and Full Stack Developer specializing in scalable web applications. Proven expertise in end-to-end development, performance optimization, and clean architecture. Passionate about open-source contributions and technical writing.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bhanu-sharma)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bhanu-sharma)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/bhanu-sharma)
 
 ---
 
-## Technical Skills  
-**Frontend:** React, TypeScript, JavaScript (ES6+), HTML5/CSS3, TailwindCSS, Redux  
-**Backend:** Node.js, Express.js, PHP, REST APIs, Microservices  
-**Databases:** MySQL, MongoDB, Firebase  
-**DevOps:** Docker, AWS (EC2, S3), CI/CD (GitHub Actions)  
-**Tools:** Git, Postman, Figma, VS Code  
+## 🚀 About Me  
+Passionate full-stack developer with expertise in building scalable web applications. Open-source contributor and tech writer. Currently pursuing CS at Arya College of Engineering & IT.
 
 ---
 
-## Experience  
-*(Include internships/freelance work if applicable)*  
-
-### **Full Stack Developer Intern** | TechSolutions Inc. *(Jun 2023 – Present)*  
-- Built a customer analytics dashboard with **React + D3.js**, improving data visibility by 40%.  
-- Reduced API latency by 35% by implementing caching with **Redis**.  
-- Contributed to Agile workflows (Jira, Sprint Planning).  
-
----
-
-## Projects  
-
-### 🛒 E-Commerce Platform | `React` `Node.js` `MongoDB`  
-- Developed a full-stack platform with **role-based auth** and Stripe/PayPal integration.  
-- Optimized performance via **code-splitting** (reduced load time by 30%).  
-- **[Live Demo](https://demo.com)** | **[GitHub](https://github.com/your-repo)**  
-
-### 🏫 College Management System | `PHP` `MySQL`  
-- Automated attendance/grading for 500+ students, saving 15+ faculty hours/month.  
-- Designed responsive UI with **Bootstrap** and role-based access control.  
-
-### 🎯 Algorithm Visualizer | `JavaScript` `D3.js`  
-- Interactive tool for 10+ sorting/pathfinding algorithms.  
-- Adopted by 200+ students for coursework.  
+## 🛠 Tech Stack  
+**Frontend:** React, Next.js, TypeScript, TailwindCSS, Redux  
+**Backend:** Node.js, Express, Python (Django), PHP  
+**Databases:** MongoDB, MySQL, Firebase  
+**DevOps:** Docker, AWS EC2, GitHub Actions  
+**Other:** Git, Postman, Figma  
 
 ---
 
-## Education  
-**B.Tech in Computer Science**  
-*Arya College of Engineering & IT* | 2021–2025  
-- CGPA: 8.5/10 | Coursework: DSA, OS, DBMS, Cloud Computing  
+## 🔥 GitHub Stats  
+
+[![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhanu-sharma&show_icons=true&theme=radical&hide_border=true)](https://github.com/bhanu-sharma)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-sharma&layout=compact&theme=radical&hide_border=true)](https://github.com/bhanu-sharma)
 
 ---
 
-## Achievements  
-- 🏆 **1st Place**, Hackathon 2023: Built a real-time collaborative editor.  
-- 📜 **AWS Certified Cloud Practitioner** (if applicable).  
-- ✍️ Published 20+ tech articles on [Medium/Dev.to](https://your-blog).  
+## 🏆 Projects  
+
+### 1. E-Commerce Platform [→](https://github.com/bhanu-sharma/ecommerce)  
+`React` `Node.js` `MongoDB` `Stripe`  
+- Built full-stack platform with JWT auth & payment gateway  
+- Optimized performance by 25% using lazy loading  
+- **Stars:** 50+ | **Forks:** 15  
+
+### 2. Algorithm Visualizer [→](https://github.com/bhanu-sharma/algo-visualizer)  
+`JavaScript` `D3.js`  
+- Interactive visualization of 10+ sorting/pathfinding algorithms  
+- Used by 200+ students for learning DSA  
+
+### 3. College ERP System [→](https://github.com/bhanu-sharma/college-erp)  
+`PHP` `MySQL` `Bootstrap`  
+- Automated attendance & grade management for 500+ students  
+- Reduced faculty workload by 40%  
 
 ---
 
-## GitHub Analytics  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
+## 📜 Certifications  
+- AWS Certified Cloud Practitioner  
+- Google Cloud Fundamentals (Coursera)  
+- 1st Place in Hackathon 2023  
 
 ---
 
-## Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/yourusername)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:bhanu.sharma@email.com)  
+## 📝 Latest Blog Posts  
+- [How to Optimize React Performance](https://dev.to/bhanu-sharma)  
+- [Building a REST API with Node.js](https://dev.to/bhanu-sharma)  
+
+---
+
+## 🤝 Let's Connect!  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/bhanu-sharma)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@bhanu-sharma)
