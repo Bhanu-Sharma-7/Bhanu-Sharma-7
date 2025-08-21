@@ -1,31 +1,39 @@
-# 👋 Hi, I'm Bhanu Sharma  
-🚀 Full Stack Developer | Open-Source Contributor  
+# 👋 Hi, I'm Bhanu Sharma
+
+**Full Stack Developer | Open-Source Contributor**  
 
 📍 Jaipur, India | 🎓 B.Tech CSE @ ACEIT  
-[Portfolio](https://bhanu-sharma-portfolio.vercel.app/) • [Email](mailto:bhanusharma14581@gmail.com) • [LinkedIn](https://www.linkedin.com/in/bhanu-sharma-dev) • [LeetCode](https://leetcode.com/bhanu-sharma)  
+
+[🌐 Portfolio](https://bhanu-sharma-portfolio.vercel.app/) • [✉ Email](mailto:bhanusharma14581@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/bhanu-sharma-dev) • [💻 LeetCode](https://leetcode.com/bhanu-sharma)
 
 ---
 
-## 🛠 Tech Stack  
-**Frontend:** React, Next.js, Tailwind, MUI  
+## 🛠 Tech Stack
+
+**Frontend:** React, Next.js, Tailwind CSS, MUI  
 **Backend:** Node.js, Express, Django, Flask  
 **Languages:** C, C++, Python, JavaScript  
 **Database:** MongoDB, MySQL  
-**Tools:** Git, Docker, AWS  
+**Tools & Platforms:** Git, Docker, AWS  
 
 ---
 
-## 🚀 Projects  
-- [📦 Item Inventory App](https://github.com/Bhanu-Sharma-7/ITEM-INVENTORY-APP) – MERN Inventory Management  
-- [🐦 Twitter Clone](https://github.com/Bhanu-Sharma-7/Twitter-Clone-MERN-Stack-) – Social Media Clone  
+## 🚀 Projects
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **Item Inventory App** | Inventory management system to track products efficiently | MERN | [GitHub](https://github.com/Bhanu-Sharma-7/ITEM-INVENTORY-APP) |
+| **Twitter Clone** | Social media platform clone with authentication & real-time features | MERN | [GitHub](https://github.com/Bhanu-Sharma-7/Twitter-Clone-MERN-Stack-) |
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanu-sharma&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanu-sharma&show_icons=true&theme=radical&hide_border=true" height="150px"/>
+</p>
 
 ---
 
-⚡ *“Code. Build. Share. Repeat.”*
+## ⚡ Quote
+*"Code. Build. Share. Repeat."*
