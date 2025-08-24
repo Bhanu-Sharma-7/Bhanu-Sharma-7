@@ -79,12 +79,3 @@
 - 🎯 Motto: *“Code. Build. Share. Repeat.”*  
 
 ---
-
-## 🏆 Achievements & Certifications  
-
-- 🏅 **LeetCode 300+ Problems Solved** (Problem-Solving & DSA Skills)  
-- 🌟 **Open-Source Contributor** (GitHub)  
-- 🎓 **Certified in Python & Web Development** (Coursera, Udemy)  
-- ⚡ Active participation in **Hackathons & Coding Contests**  
-
----
