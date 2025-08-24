@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Bhanu Sharma</h1>
-<h3 align="center">💻 Full Stack Developer | 🌍 Open-Source Contributor</h3>
+<h3 align="center">Full Stack Developer | Open-Source Enthusiast</h3>
 
 <p align="center">
-  📍 Jaipur, India • 🎓 B.Tech CSE @ ACEIT  
+  📍 Jaipur, India • 🎓 B.Tech in Computer Science (ACEIT)  
 </p>
 
 <p align="center">
@@ -21,21 +21,19 @@
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=white)  
 
-**Programming Languages**  
+**Languages**  
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,16 +46,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
-</p>
-
 ---
 
 ## 🚀 Featured Projects  
 
-| 🚧 Project | 📄 Description | ⚙️ Tech Stack | 🔗 Link |
-|------------|----------------|---------------|---------|
-| **📦 Item Inventory App** | A full-stack inventory management system to track and manage products efficiently | MERN | [GitHub](https://github.com/Bhanu-Sharma-7/ITEM-INVENTORY-APP) |
-| **🐦 Twitter Clone** | A real-time social media clone with authentication, posting, and live updates | MERN | [GitHub](https://github.com/Bhanu-Sharma-7/Twitter-Clone-MERN-Stack-) |
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| 📦 **Item Inventory App** | A full-stack inventory management system for efficient product tracking | MERN | [GitHub](https://github.com/Bhanu-Sharma-7/ITEM-INVENTORY-APP) |
+| 🐦 **Twitter Clone** | A real-time social media clone with authentication & live updates | MERN | [GitHub](https://github.com/Bhanu-Sharma-7/Twitter-Clone-MERN-Stack-) |
 
 ---
 
@@ -74,11 +70,21 @@
 
 ---
 
-## ⚡ About Me  
+## 📌 About Me  
 
-- 💻 Passionate about building **scalable full-stack applications** and contributing to **open-source**  
-- 📈 Currently enhancing my skills in **MERN stack & cloud-native development**  
-- 🧑‍🤝‍🧑 Always open to **collaborations, internships, and exciting projects**  
-- 🎯 Motto: *“Code. Build. Share. Repeat.”* 🚀  
+- 💻 I specialize in **building scalable full-stack applications**  
+- 🌍 Actively contributing to **open-source projects**  
+- 🚀 Currently improving expertise in **MERN stack & cloud-native solutions**  
+- 🤝 Open to **collaborations, internships, and research opportunities**  
+- 🎯 Motto: *“Code. Build. Share. Repeat.”*  
+
+---
+
+## 🏆 Achievements & Certifications  
+
+- 🏅 **LeetCode 300+ Problems Solved** (Problem-Solving & DSA Skills)  
+- 🌟 **Open-Source Contributor** (GitHub)  
+- 🎓 **Certified in Python & Web Development** (Coursera, Udemy)  
+- ⚡ Active participation in **Hackathons & Coding Contests**  
 
 ---
