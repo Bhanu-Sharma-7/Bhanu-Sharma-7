@@ -7,7 +7,7 @@
 ---
 
 ### ⚡ Tech Stack  
-Frontend: React, TailwindCSS  
+Frontend: React  
 Backend: Node.js, Express, Django, Flask  
 Languages: C, C++, Python, JavaScript  
 Tools: MongoDB, MySQL, Git, Docker, AWS  
