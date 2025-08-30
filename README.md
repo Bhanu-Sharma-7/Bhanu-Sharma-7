@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bhanu Sharma  
 **Full Stack Developer | Open-Source Enthusiast**  
 
-📍 Jaipur, India • 🎓 B.Tech CSE (ACEIT)  
+📍 Jaipur, India • 🎓 B.Tech CSE (AIETM)  
 🌐 [Portfolio](https://bhanu-sharma-portfolio.vercel.app/) | ✉️ [Email](mailto:bhanusharma14581@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/bhanu-sharma-dev) | 💻 [LeetCode](https://leetcode.com/bhanu-sharma)  
 
 ---
