@@ -19,9 +19,3 @@ Tools: MongoDB, MySQL, Git, Docker, AWS
 - 🐦 [Twitter Clone](https://github.com/Bhanu-Sharma-7/Twitter-Clone-MERN-Stack-) – Real-time social media app  
 
 ---
-
-### 📌 About Me  
-💻 Building scalable applications  
-🌍 Contributing to open source  
-🚀 Exploring MERN & Cloud  
-🤝 Open for collaborations & internships
