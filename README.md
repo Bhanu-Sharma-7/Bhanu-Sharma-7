@@ -4,15 +4,15 @@ I am passionate about building **creative and impactful digital solutions.** My 
 
 ---
 
-## 🚀 Skills & Tech Stack
+## 💻 Tech Stack & Focus
 
-I handle full-stack projects and utilize a diverse set of technologies:
+I specialize in building scalable **Web & Application Development** solutions.
 
-* **Full-Stack (MERN):** Strong command in MongoDB, Express.js, React, and Node.js.
-* **Backend & APIs:** Utilizing **FastAPI** (Python) and Node.js/Express.js for robust performance.
-* **Databases/BaaS:** Experienced with **PostgreSQL** and currently exploring **Convex** (Backend as a Service).
-* **Tools:** For efficiency, I use **Postman** (API Testing), Git, and GitHub.
-* **Domains:** Web Development, Application Development, and **Game Development**.
+* **Full-Stack (MERN):** MongoDB, Express.js, React, Node.js
+* **Backend & APIs:** Node.js, Express.js, **FastAPI** (Python)
+* **Databases/BaaS:** MongoDB, **PostgreSQL**, **Convex** (Newly learned/exploring)
+* **Tools:** **Postman**, Git, Vercel/Netlify
+* **Other Interests:** Game Development
 
 ---
 
