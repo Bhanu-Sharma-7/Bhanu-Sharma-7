@@ -32,15 +32,6 @@
 
 ---
 
-### 📊 My GitHub Activity
-
-| Kaam | Status |
-| :--- | :--- |
-| **Daily Coding** | Chal rahi hai 🚀 |
-| **New Projects** | Building... 🏗️ |
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">
@@ -52,7 +43,3 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=100&section=footer" width="100%" />
-
-</div>
