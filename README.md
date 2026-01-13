@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Hello, I'm Bhanu Sharma
-### 🚀 Web • Application • Game Developer
+### 🚀 Full Stack Developer | Game Dev Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+Native+Enthusiast;Aspiring+Game+Dev)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+Native+Developer;Unity+Game+Developer" alt="Typing SVG" />
 
 ---
 
@@ -11,9 +11,9 @@
 
 ### 👨‍💻 Mere Bare Mein (About Me)
 
-* **🌐 Web Development**: Main **MERN Stack** (MongoDB, Express, React, Node.js) mein expert hoon. Scalable aur responsive web apps banana meri specialty hai.
-* **📱 App Development**: Mobile apps ke liye **React Native** ka use karta hoon. Currently, focused on building high-performance Android applications.
-* **🎮 Game Development**: Abhi **Unity aur C#** ki duniya explore kar raha hoon. Basics strong kar raha hoon taaki jaldi hi cool games launch kar saku!
+* **🌐 Web Development**: Main **MERN Stack** mein expert hoon, scalable web apps banana meri specialty hai.
+* **📱 App Development**: Mobile apps ke liye **React Native** ka use karta hoon (Focused on Android).
+* **🎮 Game Development**: **Unity aur C#** seekh raha hoon basics strong karne ke liye.
 
 </div>
 
@@ -21,18 +21,17 @@
 
 ### 🛠️ My Tech Stack
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,redux,html,css,js,unity,cs,git,github,postman,vscode&perline=8" />
-</div>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Bhanu's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -51,7 +50,7 @@
 </p>
 
 <p align="center">
-  🏠 <a href="https://your-portfolio-link.com">Check out my Portfolio</a>
+  🏠 <a href="https://your-portfolio-link.com">**Check out my Portfolio**</a>
 </p>
 
 </div>
