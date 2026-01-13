@@ -20,16 +20,13 @@
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,redux,html,css,js,unity,cs,git,github,postman,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,redux,html,css,js,unity,cs,git,github,postman,vscode&theme=light" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Bhanu's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Sharma-7&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="170" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,redux,unity,cs&theme=dark" />
+  </a>
 </p>
 
 ---
