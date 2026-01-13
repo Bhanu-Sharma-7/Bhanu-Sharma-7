@@ -20,13 +20,7 @@
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,redux,html,css,js,unity,cs,git,github,postman,vscode&theme=light" />
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,redux,unity,cs&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,redux,html,css,js,unity,cs,git,github,postman,vscode&perline=8" alt="tech-stack" />
 </p>
 
 ---
@@ -34,11 +28,11 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhanu-sharma-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/bhanu-sharma-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://x.com/Bhanu_Sharma_0" target="_blank">
+  <a href="https://x.com/Bhanu_Sharma_0">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
