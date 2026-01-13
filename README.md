@@ -3,8 +3,6 @@
 # 👋 Hello, I'm Bhanu Sharma
 ### 🚀 Full Stack Developer | Game Dev Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+Native+Developer;Unity+Game+Developer" alt="Typing SVG" />
-
 ---
 
 <div align="left">
@@ -12,7 +10,7 @@
 ### 👨‍💻 Mere Bare Mein (About Me)
 
 * **🌐 Web Development**: Main **MERN Stack** mein expert hoon, scalable web apps banana meri specialty hai.
-* **📱 App Development**: Mobile apps ke liye **React Native** ka use karta hoon (Focused on Android).
+* **📱 App Development**: Mobile apps ke liye **React Native** ka use karta hoon (Android focused).
 * **🎮 Game Development**: **Unity aur C#** seekh raha hoon basics strong karne ke liye.
 
 </div>
@@ -28,9 +26,10 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-0&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Bhanu's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Sharma-0&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="170" />
 </p>
 
 ---
@@ -41,16 +40,18 @@
   <a href="https://www.linkedin.com/in/bhanu-sharma-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://x.com/Bhanu_Sharma_0">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  🏠 <a href="https://your-portfolio-link.com">**Check out my Portfolio**</a>
+  🏠 **[Check out my Portfolio](https://your-portfolio-link.com)**
 </p>
 
 </div>
