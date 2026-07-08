@@ -2,8 +2,6 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Bhanu_Sharma_0)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://bhanu-sharma-portfolio.vercel.app/)
 
-Hello Guy's,
+Hi everyone, I'm **Bhanu Sharma**! 👋
 
-My name is **Bhanu Sharma**. BTech Student who loves to build websites, applications and as well as games.
-
-i am improving my problem solving skills with geeks4geeks 160 days problem solving program and also try to read one topics of the course.
+I'm a BTech student who loves building websites, applications, and games. I am also a 3D model developer, creating assets and environments using Blender. Always working on sharpening my problem-solving skills and learning new concepts daily.
