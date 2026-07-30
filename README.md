@@ -101,10 +101,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="48%" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Bhanu-Sharma-7&show_icons=true&theme=radical" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanu-Sharma-7&theme=radical" /></td>
+  </tr>
+</table>
 
 ---
 
